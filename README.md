@@ -17,7 +17,7 @@ I am a Self Starter & Quick Learner who is Passionate about Coding & Technology.
 
 - 🌟 Microsoft Learn Student Ambassador
 - ⚡️ Dell Campassador
-- 👨💻 Front end Web Developer
+- 💻 Front end Web Developer
 - :relaxed:  Core team member @DevScript
 - :smiley: General Manager @eduAlgo
 - 🔭 Open Source Enthusiastic
