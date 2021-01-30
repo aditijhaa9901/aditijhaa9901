@@ -1,16 +1,27 @@
-### Hi there 👋
+ ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aditi Jha!!!
+ ![1]
 
-<!--
-**aditijhaa9901/aditijhaa9901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://lh3.googleusercontent.com/0gLb7CISnaci-_xQ55oOr-dfsEjoWc4KRuZyTCdGnLFqANvf2dUx8cf59_L-cYKO-oUh=s170"></a>
+[![Instagram Badge](https://img.shields.io/badge/-imadity19-black?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/imadity19)](https://instagram.com/imadity19)
+[![Linkedin Badge](https://img.shields.io/badge/-aditijhaa-black?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditijhaa/)](https://www.linkedin.com/in/aditijhaa/)
+[![Twitter Badge](https://img.shields.io/badge/-adiiii9901-black?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/adiiii9901)](https://www.twitter.com/adiiii9901)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ABOUT ME
+“Hard-working achiever, Reliable, team player and a resilient person."
+I am a Sophomore year engineering student currently pursuing my undergraduate degree in Computer Science from Sathyabama University, Chennai.
+Currently exploring Front end Web Development and Graphics Designing.
+I am a Self Starter & Quick Learner who is Passionate about Coding & Technology.
+
+
+- 🌟 Microsoft Learn Student Ambassador
+- ⚡️ Dell Campassador
+- 👨💻 Front end Web Developer
+- 🌟 Core team member @DevScript
+- 🌟 General Manager @eduAlgo
+- 🔭 Open Source Enthusiastic
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditijhaa9901&show_icons=true&locale=en&layout=compact" alt="aditijhaa9901" /></p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditijhaa9901&show_icons=true&locale=en" alt="aditijhaa9901" /></p> -->
