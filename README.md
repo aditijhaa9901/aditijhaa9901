@@ -20,7 +20,7 @@ I am a Self Starter & Quick Learner who is Passionate about Coding & Technology.
 - 💻 Front end Web Developer
 - :relaxed:  Core team member @DevScript
 - :smiley: General Manager @eduAlgo
-- 🔭 Open Source Enthusiastic
+- 🔭 Open Source Enthusiast
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditijhaa9901&show_icons=true&locale=en&layout=compact" alt="aditijhaa9901" /></p>
 
