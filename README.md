@@ -2,7 +2,6 @@
  ![1](https://github.com/aditijhaa9901/aditijhaa9901/blob/main/aditi.gif)
 
 <a href="https://lh3.googleusercontent.com/0gLb7CISnaci-_xQ55oOr-dfsEjoWc4KRuZyTCdGnLFqANvf2dUx8cf59_L-cYKO-oUh=s170"></a>
-[![Instagram Badge](https://img.shields.io/badge/-imadity19-vermillion?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/imadity19)](https://instagram.com/imadity19)
 [![Linkedin Badge](https://img.shields.io/badge/-aditijhaa-orange?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditijhaa/)](https://www.linkedin.com/in/aditijhaa/)
 [![Twitter Badge](https://img.shields.io/badge/-adiiii9901-purple?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/adiiii9901)](https://www.twitter.com/adiiii9901)
 
@@ -16,10 +15,8 @@ I am a Self Starter & Quick Learner who is Passionate about Coding & Technology.
 
 
 - 🌟 Microsoft Learn Student Ambassador
-- ⚡️ Dell Campassador
+- ⚡️ Dell Campassador Winner SO5
 - 💻 Front end Web Developer
-- :relaxed:  Core team member @DevScript
-- :smiley: General Manager @eduAlgo
 - 🔭 Open Source Enthusiast
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditijhaa9901&show_icons=true&locale=en&layout=compact" alt="aditijhaa9901" /></p>
