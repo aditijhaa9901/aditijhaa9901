@@ -8,15 +8,12 @@
 
 
 ## ABOUT ME
-“Hard-working achiever, Reliable, team player and a resilient person."
-I am a Sophomore year engineering student currently pursuing my undergraduate degree in Computer Science from Sathyabama University, Chennai.
-Currently exploring Front end Web Development and Graphics Designing.
-I am a Self Starter & Quick Learner who is Passionate about Coding & Technology.
+I am a diligent and dependable individual, known for being a team-oriented and tenacious professional. I completed my undergraduate studies in Computer Science at Sathyabama University in Chennai. Presently, I am employed as a Full Stack Software Engineer (SWE-1) at JP Morgan Chase. My primary technical expertise includes C#, .NET, and ReactJS, and I am also proficient in Python and C++. I am a proactive and fast learner with a strong passion for coding and technology.
 
-
+- 👩🏻‍💻 SWE-1 at JPMorgan Chase
 - 🌟 Microsoft Learn Student Ambassador
 - ⚡️ Dell Campassador Winner SO5
-- 💻 Front end Web Developer
+- 💻 Full Stack Developer
 - 🔭 Open Source Enthusiast
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditijhaa9901&show_icons=true&locale=en&layout=compact" alt="aditijhaa9901" /></p>
